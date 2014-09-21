@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Overall objective is to be able to apply inverse matrix
+## 
 
 ## Write a short comment describing this function
 
